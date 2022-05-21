@@ -1,6 +1,6 @@
 # Gabriel Dyoniso
 
-Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Javascript.
+Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Javascript. Moro no Brasil sou de Goiás/G0, e estou atualmente procurando vagas de estágio.
 
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7Retro.community@protonmail.com)](mailt:7Retro.community@protonmail.com)
 
