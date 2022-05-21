@@ -4,7 +4,7 @@ Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Ja
 
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7Retro.community@protonmail.com)](mailt:7Retro.community@protonmail.com)
 
-### Olá para todos 👋
+### Olá para todos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```js
 const me = {
