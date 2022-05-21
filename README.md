@@ -16,10 +16,11 @@ const me = {
     ],
     code: {
       focusing: ['Javascript', 'React', 'Node', 'ExpressJs', 'Pug/Jade', 'Postgresql', 'MySql', 'Design Patterns'],
-      knowledge: ['Javascript', 'Cryptography Jwt', 'Firebase', 'HTML', 'CSS', 'Bootstrap', 'jQuery', 'PHP', 'Apache', 'Ngnix'],
+      knowledge: ['Javascript', 'Cryptography JWT', 'Firebase', 'HTML', 'CSS', 'Bootstrap', 'jQuery', 'PHP', 'Apache', 'Ngnix'],
       tools: ['Git', 'Android Studio', 'Photoshop', 'Docker', 'Sony Vegas', 'Filmora']
     },
-    hobbies: ['Games', 'Movies', 'Series', 'Music', 'Anonymous Development', 'Cryptocurrencies']
+    hobbies: ['Games', 'Movies', 'Series', 'Music', 'Anonymous Development', 'Cryptocurrencies'],
+    os: ['Windows', 'Ubuntu']
 };
 ```
 
