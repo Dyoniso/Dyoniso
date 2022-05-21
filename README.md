@@ -12,7 +12,7 @@ const me = {
     nickname: 'Dyoniso',
     age: '19',
     college: 'Internet Systems',
-    location: { country: 'Brazil',  state: 'Goías', city: 'Goiânia' },
+    location: { country: 'Brazil',  state: 'Goiás', city: 'Goiânia' },
     experiences: [
       { companyName: 'Metaprime Sistemas', companyUrl: 'https://www.sistemaeorbis.com.br/', role: 'Android Developer' },
     ],
