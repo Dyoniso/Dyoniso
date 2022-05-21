@@ -1,16 +1,35 @@
-### Hi there 👋
+# Gabriel Dyoniso
 
-<!--
-**Dyoniso/Dyoniso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7Retro.community@protonmail.com)](mailt:7Retro.community@protonmail.com)
 
-Here are some ideas to get you started:
+### Olá para todos 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const me = {
+    fullName: 'Pedro Gabriel dos Santos',
+    nickname: 'Dyoniso',
+    age: '19',
+    college: 'Internet Systems',
+    location: { country: 'Brazil',  state: 'Goías', city: 'Goiânia' },
+    experiences: [
+      { companyName: 'Metaprime Sistemas', companyUrl: 'https://www.sistemaeorbis.com.br/', role: 'Android Developer' },
+    ],
+    code: {
+      focusing: ['Javascript', 'React', 'Node', 'ExpressJs', 'Pug/Jade', 'Postgresql', 'MySql', 'Design Patterns'],
+      knowledge: ['Javascript', 'Cryptography Jwt', 'Firebase', 'HTML', 'CSS', 'Bootstrap', 'jQuery', 'PHP', 'Apache', 'Ngnix'],
+      tools: ['Git', 'Android Studio', 'Photoshop', 'Docker', 'Sony Vegas', 'Filmora']
+    },
+    hobbies: ['Games', 'Movies', 'Series', 'Music', 'Anonymous Development', 'Cryptocurrencies']
+};
+```
+
+<br/>
+
+<div>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dyoniso&show_icons=true&theme=radical&hide=issues"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyoniso&layout=compact&theme=radical"/>
+</div>
+
+<br/>
+
+🎯 Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.
