@@ -18,7 +18,7 @@ const me = {
     ],
     code: {
       focusing: ['Javascript', 'React', 'Node', 'ExpressJs', 'Pug/Jade', 'Postgresql', 'MySql', 'Design Patterns'],
-      knowledge: ['Javascript', 'Cryptography JWT', 'Firebase', 'HTML', 'CSS', 'Bootstrap', 'jQuery', 'PHP', 'Apache', 'Ngnix'],
+      knowledge: ['Javascript', 'Cloudflare', 'Cryptography JWT', 'Firebase', 'HTML', 'CSS', 'Bootstrap', 'jQuery', 'PHP', 'Apache', 'Ngnix'],
       tools: ['Git', 'Android Studio', 'Photoshop', 'Docker', 'Sony Vegas', 'Filmora']
     },
     hobbies: ['Games', 'Movies', 'Series', 'Music', 'Anonymous Development', 'Cryptocurrencies'],
