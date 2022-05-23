@@ -3,7 +3,7 @@
 Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Javascript. Moro no Brasil sou de Goiás/G0, e estou atualmente procurando vagas de estágio.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dyoniso)](https://www.linkedin.com/in/gabriel-dyoniso)
-[![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7Retro.community@protonmail.com)](mailt:7Retro.community@protonmail.com)
+[![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dyoniso@gmail.com)](mailto:contato.dyoniso@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheus.app)](https://dyoniso.github.io)
 
 ### Olá para todos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
