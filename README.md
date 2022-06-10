@@ -6,7 +6,7 @@ Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Ja
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dyoniso@gmail.com)](mailto:contato.dyoniso@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheus.app)](https://dyoniso.github.io)
 
-### Olá para todos <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Olá para todos
 
 ```js
 const me = {
