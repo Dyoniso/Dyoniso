@@ -35,6 +35,7 @@ const me = {
 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyoniso&layout=compact&theme=radical"/>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dyoniso&color=yellow" alt="Visitantes" /> </p>
 <br/>
 
 🎯 Sempre em constante evolução.
