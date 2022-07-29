@@ -14,17 +14,14 @@ const me = {
     nickname: 'Dyoniso',
     age: '19',
     college: 'Internet Systems',
-    location: { country: 'Brazil',  state: 'Goiás', city: 'Goiânia' },
-    experiences: [
-      { companyName: 'Metaprime Sistemas', companyUrl: 'https://www.sistemaeorbis.com.br/', role: 'Android Developer' },
-    ],
+    location: { country: 'Brazil' },,
     code: {
-      focusing: ['Javascript', 'React', 'Node', 'ExpressJs', 'Pug/Jade', 'Postgresql', 'MySql', 'Design Patterns'],
-      knowledge: ['Javascript', 'Cloudflare', 'Cryptography JWT', 'Firebase', 'HTML', 'CSS', 'Bootstrap', 'jQuery', 'PHP', 'Apache', 'Ngnix'],
+      focusing: ['Javascript', 'React', 'Node', 'ExpressJs', 'Pug/Jade', 'Postgresql', 'Design'],
+      knowledge: ['Javascript', 'Cloudflare', 'Cryptography JWT', 'Bootstrap', 'jQuery', 'PHP',],
       tools: ['Git', 'Android Studio', 'Photoshop', 'Docker', 'Sony Vegas', 'Filmora']
     },
     hobbies: ['Games', 'Movies', 'Series', 'Music', 'Anonymous Development', 'Cryptocurrencies'],
-    os: ['Windows', 'Ubuntu']
+    os: ['Windows', 'Ubuntu', 'Debian']
 };
 ```
 
