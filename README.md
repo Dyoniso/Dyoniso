@@ -1,6 +1,6 @@
 # Gabriel Dyoniso
 
-Seja bem vindo desenvolvedor anônimo, espero que os repositórios anexados aqui te ajude de alguma forma.
+Seja bem vindo desenvolvedor anônimo, espero que os repositórios anexados aqui te ajude de alguma forma. <br />
 Sem mais, Bom Hacking..
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dyoniso)](https://www.linkedin.com/in/gabriel-dyoniso)
