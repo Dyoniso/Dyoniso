@@ -1,6 +1,7 @@
 # Gabriel Dyoniso
 
-Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Javascript. Moro no Brasil sou de Goiás/G0, e estou atualmente procurando vagas de estágio.
+Seja bem vindo desenvolvedor anônimo, espero que os repositórios anexados aqui te ajude de alguma forma.
+Sem mais, Bom Hacking..
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dyoniso)](https://www.linkedin.com/in/gabriel-dyoniso)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dyoniso@gmail.com)](mailto:contato.dyoniso@gmail.com)
@@ -8,18 +9,13 @@ Desenvolvedor relativo em várias linguagens, focado principalmente em Java e Ja
 
 ```js
 const me = {
-    fullName: 'Pedro Gabriel dos Santos',
-    nickname: 'Dyoniso',
-    age: '19',
-    college: 'Internet Systems',
-    location: { country: 'Brazil' },,
-    code: {
-      focusing: ['Javascript', 'React', 'Node', 'ExpressJs', 'Pug/Jade', 'Postgresql', 'Design'],
-      knowledge: ['Javascript', 'Cloudflare', 'Cryptography JWT', 'Bootstrap', 'jQuery', 'PHP',],
-      tools: ['Git', 'Android Studio', 'Photoshop', 'Docker', 'Sony Vegas', 'Filmora']
-    },
-    hobbies: ['Games', 'Movies', 'Series', 'Music', 'Anonymous Development', 'Cryptocurrencies'],
-    os: ['Windows', 'Ubuntu', 'Debian']
+    Apelido: 'Gabriel Dyoniso',
+    Idade: '20',
+    Cursando: 'Internet Systems',
+    Code: {
+    	Habilidades: ['React', 'Node.js', 'Bootstrap', 'Oracle APEX'],
+	Linguagens: ['Javascript', 'Java', 'PLSQL'],
+    }
 };
 ```
 
