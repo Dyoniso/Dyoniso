@@ -18,7 +18,8 @@ const me = {
     }
 };
 ```
-
+> [Guia para configurar seu OrangePI](https://dyoniso.github.io/OrangePI)
+> 
 <br/>
 
 <div>
