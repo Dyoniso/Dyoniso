@@ -3,7 +3,7 @@
 Seja bem vindo desenvolvedor anônimo, espero que os repositórios anexados aqui te ajude de alguma forma. <br />
 Sem mais, Bom Hacking..
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apex-pedro)](https://www.linkedin.com/in/gabriel-dyoniso)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/apex-pedro)](https://www.linkedin.com/in/apex-pedro)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.dyoniso@gmail.com)](mailto:contato.dyoniso@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.matheus.app)](https://dyoniso.github.io)
 
