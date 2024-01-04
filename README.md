@@ -19,7 +19,3 @@ Aqui é o lugar onde gosto de compartilhar um pouco da minha criatividade! Como 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dyoniso&color=yellow" alt="Visitantes" /> </p>
 <br/>
-
-```js
-const meta = "🎯 Sempre em constante evolução para que um dia seja construido uma automação que mude o mundo";
-```
